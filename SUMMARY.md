@@ -1,12 +1,12 @@
 # Anime Studio 教程
 
 * [说明](README.md)
-* [快速开始](quick-start.md)
-  - [快速体验](quick-start/a-quick-run-through.md)
-  - [绘制简单的图形](quick-start/drawing-simple-shapes.md)
-  - [绘制复杂的图形](quick-start/drawing-complex-shapes.md)
-  - [骨骼设置](quick-start/bone-setup.md)
-  - [动画](quick-start/animation.md)
+* [快速开始](快速入门.md)
+  - [快速体验](快速入门/快速体验.md)
+  - [绘制简单的图形](快速入门/绘制简单的图形.md)
+  - [绘制复杂的图形](快速入门/drawing-complex-shapes.md)
+  - [骨骼设置](快速入门/bone-setup.md)
+  - [动画](快速入门/animation.md)
 * [绘图](2-drawing)
   - [连接](2-1-welding.md)
   - [绘制带孔的图形](2-2-drawing-shapes-with-holes.md)
