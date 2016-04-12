@@ -1,5 +1,4 @@
 # Summary
 
-* [说明](README.md)
-* [Anime Studio 教程](chapter1.md)
+* [Anime Studio 教程](anime-studio-tutorial.md)
 
