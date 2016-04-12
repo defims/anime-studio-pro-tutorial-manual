@@ -1,6 +1,4 @@
-# Anime Studio Pro 教学手册
-
-v11.2
+# Anime Studio Pro v11.2 教学手册
 
 ![Anime Studio Pro 教学手册](README/Anime-Studio-Pro-教学手册.jpg)
 
