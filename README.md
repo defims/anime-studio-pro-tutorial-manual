@@ -8,7 +8,7 @@ v11.2
 
 ### 在线阅读
 - [gitbook](https://www.gitbook.com/read/book/defims/anime-studio-pro-users-manual)
-- [tutorial.moho.in](tutorial.moho.in)
+- [tutorial.moho.in](http://tutorial.moho.in)
 
 ### QQ群
 
