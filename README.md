@@ -1,9 +1,23 @@
-# Anime Studio Pro 用户手册
+# Anime Studio Pro 教学手册
 
-Anime Studio Pro 11.2
+v11.2
 
-- [猫吼爱动画](http://moho.in)
-- [二维骨骼动画moho]()
+![Anime Studio Pro 教学手册](README/Anime-Studio-Pro-教学手册.jpg)
 
-## 翻译: 澹泊
-## 发布: Def
+欢迎访问[猫吼社区](http://moho.in)
+
+### 在线阅读
+- [gitbook](https://www.gitbook.com/read/book/defims/anime-studio-pro-users-manual)
+- [tutorial.moho.in](tutorial.moho.in)
+
+### QQ群
+
+- 二维骨骼动画moho : 68162628
+- Anime Studio技术交流群 : 45221856
+- Anime Studio 二群 : 7664552
+- Anime Studio 三群 : 7883651
+
+### 特别鸣谢
+
+- 翻译 : 澹泊
+- 发布 : Def
