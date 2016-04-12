@@ -41,6 +41,8 @@ Anime Studio有若干编辑模式组成了其不同的工作任务。有些工�
 
 双击Anime Studio图标启动Anime Studio,或者在开始菜单 (Windows)选择Anime Studio程序。当你新建了一个Anime Studio文件,它会出现如下画面:
 
+![Anime Studio 界面](anime-studio-界面.png)
+
 选择 文件->新建 创建一个新的工程,然后点击当前工具图标 (就在“文件”菜单的下面),选择 重置全部工具,这样可以使所有的工具恢复到默认值状态,以便你能够与这个教程同步。
 
 点击工具栏里的“创建图形”工具选择它。
