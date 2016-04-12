@@ -1,3 +1,5 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [介绍](README.md)
+* [Anime Studio 教程](anime-studio-tutorial.md)
+
